@@ -1,0 +1,16 @@
+名称：MyApp.exe
+
+开发环境
+Windows10
+Qt 5.8
+Qt Creator 4.2.1
+MinGW 5.3.0 32bit
+
+数据库：SQLite
+
+已有账号              |    密码
+user1                   |    123456
+user2                   |    123456
+user3                   |    123456
+user4                   |    123456
+user5                   |    123456
