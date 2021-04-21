@@ -6,4 +6,4 @@
 界面展示：
 ![avatar](login.png)
 
-![avatar](mainwindow.png)
+![avatar](main.png)
